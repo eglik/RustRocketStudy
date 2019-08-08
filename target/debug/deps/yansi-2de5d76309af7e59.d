@@ -1,0 +1,13 @@
+C:\Users\eglik\Desktop\github\RustRocketStudy\target\debug\deps\yansi-2de5d76309af7e59.rmeta: C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\lib.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\docify.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\macros.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\windows.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\paint.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\style.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\color.rs
+
+C:\Users\eglik\Desktop\github\RustRocketStudy\target\debug\deps\libyansi-2de5d76309af7e59.rlib: C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\lib.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\docify.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\macros.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\windows.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\paint.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\style.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\color.rs
+
+C:\Users\eglik\Desktop\github\RustRocketStudy\target\debug\deps\yansi-2de5d76309af7e59.d: C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\lib.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\docify.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\macros.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\windows.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\paint.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\style.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\color.rs
+
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\lib.rs:
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\docify.rs:
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\macros.rs:
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\windows.rs:
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\paint.rs:
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\style.rs:
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.4.0\src\color.rs:

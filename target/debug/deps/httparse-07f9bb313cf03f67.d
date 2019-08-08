@@ -1,0 +1,12 @@
+C:\Users\eglik\Desktop\github\RustRocketStudy\target\debug\deps\httparse-07f9bb313cf03f67.rmeta: C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\lib.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\iter.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\macros.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\mod.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\sse42.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\avx2.rs
+
+C:\Users\eglik\Desktop\github\RustRocketStudy\target\debug\deps\libhttparse-07f9bb313cf03f67.rlib: C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\lib.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\iter.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\macros.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\mod.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\sse42.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\avx2.rs
+
+C:\Users\eglik\Desktop\github\RustRocketStudy\target\debug\deps\httparse-07f9bb313cf03f67.d: C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\lib.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\iter.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\macros.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\mod.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\sse42.rs C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\avx2.rs
+
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\lib.rs:
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\iter.rs:
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\macros.rs:
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\mod.rs:
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\sse42.rs:
+C:\Users\eglik\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\avx2.rs:
